@@ -25,9 +25,9 @@ This project is a front-end recreation of the KFC website, built to demonstrate 
 
 Here are some screenshots of the project:
 
-![Screenshot 1](![Screenshot 2024-08-20 103703](https://github.com/user-attachments/assets/52c69bc0-a866-4475-9e3c-cb5958ad3be1))
-![Screenshot 2](![Screenshot 2024-08-20 103720](https://github.com/user-attachments/assets/d390c3c0-39fa-453c-9242-960fa2f5bec6))
-![Screenshot 3](![Screenshot 2024-08-20 103738](https://github.com/user-attachments/assets/6d492900-b473-4326-aa31-9884b8e52b55))
+![Screenshot 1]![Screenshot 2024-08-20 103703](https://github.com/user-attachments/assets/52c69bc0-a866-4475-9e3c-cb5958ad3be1)
+![Screenshot 2]![Screenshot 2024-08-20 103720](https://github.com/user-attachments/assets/d390c3c0-39fa-453c-9242-960fa2f5bec6)
+![Screenshot 3]![Screenshot 2024-08-20 103738](https://github.com/user-attachments/assets/6d492900-b473-4326-aa31-9884b8e52b55)
 
 ## 🔧 Future Updates
 
